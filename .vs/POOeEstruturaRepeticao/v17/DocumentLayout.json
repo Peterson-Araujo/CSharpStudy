@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\peter\\source\\repos\\POOeEstruturaRepeticao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4241F065-9A79-4520-9A92-DB322B745D54}|POOeEstruturaRepeticao\\POOeEstruturaRepeticao.csproj|c:\\users\\peter\\source\\repos\\pooeestruturarepeticao\\pooeestruturarepeticao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4241F065-9A79-4520-9A92-DB322B745D54}|POOeEstruturaRepeticao\\POOeEstruturaRepeticao.csproj|solutionrelative:pooeestruturarepeticao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4241F065-9A79-4520-9A92-DB322B745D54}|POOeEstruturaRepeticao\\POOeEstruturaRepeticao.csproj|c:\\users\\peter\\source\\repos\\pooeestruturarepeticao\\pooeestruturarepeticao\\matematica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4241F065-9A79-4520-9A92-DB322B745D54}|POOeEstruturaRepeticao\\POOeEstruturaRepeticao.csproj|solutionrelative:pooeestruturarepeticao\\matematica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Matematica.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\POOeEstruturaRepeticao\\POOeEstruturaRepeticao\\Matematica.cs",
+              "RelativeDocumentMoniker": "POOeEstruturaRepeticao\\Matematica.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\POOeEstruturaRepeticao\\POOeEstruturaRepeticao\\Matematica.cs",
+              "RelativeToolTip": "POOeEstruturaRepeticao\\Matematica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T20:31:34.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\POOeEstruturaRepeticao\\POOeEstruturaRepeticao\\Program.cs",
+              "RelativeDocumentMoniker": "POOeEstruturaRepeticao\\Program.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\POOeEstruturaRepeticao\\POOeEstruturaRepeticao\\Program.cs",
+              "RelativeToolTip": "POOeEstruturaRepeticao\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T20:31:06.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\peter\source\repos\POOeEstruturaRepeticao\POOeEstruturaRepeticao\bin\Debug\net8.0\POOeEstruturaRepeticao.exe
+C:\Users\peter\source\repos\POOeEstruturaRepeticao\POOeEstruturaRepeticao\bin\Debug\net8.0\POOeEstruturaRepeticao.deps.json
+C:\Users\peter\source\repos\POOeEstruturaRepeticao\POOeEstruturaRepeticao\bin\Debug\net8.0\POOeEstruturaRepeticao.runtimeconfig.json
+C:\Users\peter\source\repos\POOeEstruturaRepeticao\POOeEstruturaRepeticao\bin\Debug\net8.0\POOeEstruturaRepeticao.dll
+C:\Users\peter\source\repos\POOeEstruturaRepeticao\POOeEstruturaRepeticao\bin\Debug\net8.0\POOeEstruturaRepeticao.pdb
+C:\Users\peter\source\repos\POOeEstruturaRepeticao\POOeEstruturaRepeticao\obj\Debug\net8.0\POOeEstruturaRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\source\repos\POOeEstruturaRepeticao\POOeEstruturaRepeticao\obj\Debug\net8.0\POOeEstruturaRepeticao.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\POOeEstruturaRepeticao\POOeEstruturaRepeticao\obj\Debug\net8.0\POOeEstruturaRepeticao.AssemblyInfo.cs
+C:\Users\peter\source\repos\POOeEstruturaRepeticao\POOeEstruturaRepeticao\obj\Debug\net8.0\POOeEstruturaRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\POOeEstruturaRepeticao\POOeEstruturaRepeticao\obj\Debug\net8.0\POOeEstruturaRepeticao.dll
+C:\Users\peter\source\repos\POOeEstruturaRepeticao\POOeEstruturaRepeticao\obj\Debug\net8.0\refint\POOeEstruturaRepeticao.dll
+C:\Users\peter\source\repos\POOeEstruturaRepeticao\POOeEstruturaRepeticao\obj\Debug\net8.0\POOeEstruturaRepeticao.pdb
+C:\Users\peter\source\repos\POOeEstruturaRepeticao\POOeEstruturaRepeticao\obj\Debug\net8.0\POOeEstruturaRepeticao.genruntimeconfig.cache
+C:\Users\peter\source\repos\POOeEstruturaRepeticao\POOeEstruturaRepeticao\obj\Debug\net8.0\ref\POOeEstruturaRepeticao.dll
