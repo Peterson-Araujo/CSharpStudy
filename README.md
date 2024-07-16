@@ -1,1 +1,1 @@
-Estrutura de repetição para exponênciação
+Estrutura de repetição com While
